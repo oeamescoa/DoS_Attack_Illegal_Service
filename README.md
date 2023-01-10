@@ -5,7 +5,7 @@ by automating the creation of the available website form, solving the reCaptcha,
 
 The result was the recipient (criminal) who was soliciting illegal services was blasted with a few thousand
 emails. Do not use this script maliciously or against any personal website or service. The author takes no 
-responsibility for actions taken on users of this repository. This is for educational purposes only. Be safe :)
+responsibility for actions taken by users of this repository. This is for educational purposes only. Be safe :)
 
 Additional Notes: There are obviously many ways to automate this script, in this case it was setup recurringly using a cron
 job - but more sophisticated systems will block IP address. Selenium has the capability to use proxy services, and this is
