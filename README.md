@@ -12,4 +12,4 @@ job - but more sophisticated systems will block IP address. Selenium has the cap
 well documented on StackOverflow and official documentation. Proxy services can be used (sometimes at a cost),
 but in our case the illegal website was weak and easily exploitable. There are also many alternative ways to perform
 DDoS and DoS attacks, all of which should be used for systems testing and ethical hacking only. To reiterate, this
-script was used for an ethical purpose only.
+script was used for ethical purposes only.
