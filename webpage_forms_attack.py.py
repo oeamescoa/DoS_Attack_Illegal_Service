@@ -125,7 +125,7 @@ for val in nums:
 # DEBUGGING/VALIDATE CAPTCHA WAS CORRECTLY DETERMINED
 print(solution)
 
-# HACK THE HTML SCRIPT TO REMOVE LOCKS ON ELEMENTS
+# REMOVE THE HTML SCRIPT ELEMENT LOCKS
 driver.execute_script("document.getElementById('bookingDefaultReal').removeAttribute('aria-invalid')")
 driver.execute_script("document.getElementById('bookingDefaultReal').removeAttribute('autocomplete')")
 
