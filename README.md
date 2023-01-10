@@ -11,4 +11,5 @@ Additional Notes: There are obviously many ways to automate this script, in this
 job - but more sophisticated systems will block IP address. Selenium has the capability to use proxy services, and this is
 well documented on StackOverflow and official documentation. Proxy services can be used (sometimes at a cost),
 but in our case the illegal website was weak and easily exploitable. There are also many alternative ways to perform
-DDoS and DoS attacks, all of which should be used for systems testing and ethical hacking only.
+DDoS and DoS attacks, all of which should be used for systems testing and ethical hacking only. To reiterate, this
+script was used for an ethical purpose only.
